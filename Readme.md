@@ -8,6 +8,9 @@
 ### Participants
 
 Group 1:
+    Name 1:
+    Name 2:
+    Name 3:
 
 Group 2:
 
